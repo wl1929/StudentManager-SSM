@@ -17,9 +17,6 @@ import java.util.List;
 
 /**
  * Student 控制器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-23-下午 13:27
  */
 @Controller
 @RequestMapping("")
