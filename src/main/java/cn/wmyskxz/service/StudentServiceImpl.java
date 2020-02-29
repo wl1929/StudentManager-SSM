@@ -9,9 +9,6 @@ import java.util.List;
 
 /**
  * StudentService 的实现类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-23-下午 13:51
  */
 @Service
 public class StudentServiceImpl implements StudentService {
